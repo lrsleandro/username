@@ -4,7 +4,7 @@
 
 
 Me chamo Leandro, trabalho atualmente com suporte de sistemas na empresa DATACAIXA que gosto muito, não programo na empresa mas tenho interesse em trabalhar na área.
-* Estou em constante desenvolvimento, 1% ao dia :) aprendendo muito sobre JAVASCRIPT e REACT, sei que deveria focar no JavaScript primeiro mas gosto muito de React então acabo acompanhando os dois rs. *
+Estou em constante desenvolvimento, 1% ao dia :) aprendendo muito sobre JAVASCRIPT e REACT, sei que deveria focar no JavaScript primeiro mas gosto muito de React então acabo acompanhando os dois rs.
 
 Tenho uma noção até que legal em HTML e CSS, futuramente tenho intenção de ser um FULLSTACK DEVELOPER como os grandes na Rocketseat, porém focando mais no Back-end.
 
@@ -17,9 +17,9 @@ Minhas Soft skills:
 - Atendimento (trabalhei em empresas Helpdesk no suporte com configuração de rádio, também entendo um pouco de fibra), atualmente ainda trabalho no atendimento porém prestando suporte em sistemas e impressoras, acabo usando minha experiência em redes aqui também :)
 
 Deixo alguns dados:
-Facebook: https://www.facebook.com/lrsant1989
-Linkedin: https://www.linkedin.com/in/lrsleandro/
-E-mail: lrsleandro@gmail.com
+- Facebook: https://www.facebook.com/lrsant1989
+- Linkedin: https://www.linkedin.com/in/lrsleandro/
+- E-mail: lrsleandro@gmail.com
 
 Trabalho atualmente na melhor empresa :) DATACAIXA TECNOLOGIA - https://datacaixa.com.br/
 Estou frequentemente melhorando minha estruturação HTML e CSS, e estudando Javascript, Typescript, React
