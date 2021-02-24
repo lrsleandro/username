@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 
-<!--
+
 Me chamo Leandro, trabalho atualmente com suporte de sistemas na empresa DATACAIXA que gosto muito, não programo na empresa mas tenho interesse em trabalhar na área.
 * Estou em constante desenvolvimento, 1% ao dia :) aprendendo muito sobre JAVASCRIPT e REACT, sei que deveria focar no JavaScript primeiro mas gosto muito de React então acabo acompanhando os dois rs. *
 
@@ -26,5 +26,3 @@ Estou frequentemente melhorando minha estruturação HTML e CSS, e estudando Jav
 Busco melhorar meu back-end e front-end para ajudar a resolver problemas, encontrar melhores soluções para as pessoas(empresas) com sistemas websites
 Sei que não conheço muito sobre javascript, mas tenho uma noção, qualquer dúvida só chamar, vou tentar ajudar, se não souber corro atrás e aprendemos juntos
 Para entrar em contato comigo, pode ser através do meu e-mail, ou manda um inbox no Facebook ;)
-
--->
