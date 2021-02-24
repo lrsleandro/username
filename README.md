@@ -22,7 +22,10 @@ Deixo alguns dados:
 - E-mail: lrsleandro@gmail.com
 
 Trabalho atualmente na melhor empresa :) DATACAIXA TECNOLOGIA - https://datacaixa.com.br/
+
 Estou frequentemente melhorando minha estruturação HTML e CSS, e estudando Javascript, Typescript, React
+
 Busco melhorar meu back-end e front-end para ajudar a resolver problemas, encontrar melhores soluções para as pessoas(empresas) com sistemas websites
+
 Sei que não conheço muito sobre javascript, mas tenho uma noção, qualquer dúvida só chamar, vou tentar ajudar, se não souber corro atrás e aprendemos juntos
 Para entrar em contato comigo, pode ser através do meu e-mail, ou manda um inbox no Facebook ;)
